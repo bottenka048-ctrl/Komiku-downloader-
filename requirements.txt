@@ -1,0 +1,8 @@
+beautifulsoup4>=4.13.4
+flask>=3.1.1
+nest-asyncio>=1.6.0
+pillow>=11.3.0
+pytelegrambotapi>=4.28.0
+python-telegram-bot==20.3
+requests>=2.32.4
+telegram>=0.0.1
